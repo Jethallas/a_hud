@@ -1,7 +1,6 @@
 --[[
   Free DarkRP HUD v2
-  Coded by: ted.lua (http://steamcommunity.com/id/tedlua/)
-  Refactored by: OverlordAkise (https://steamcommunity.com/id/overlordakise/) and Anti-Mingers Elite https://steamcommunity.com/id/antimingerselite
+  Coded by: Jethallas
 ]]
 
 --Replaced model with steam avatar
